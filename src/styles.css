@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body {
+  font-family: Lato;
+  padding: 0;
+  margin: 0;
+}
+
+.fill-space {
+  flex: 1 1 auto;
+}
