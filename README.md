@@ -1,4 +1,4 @@
-# angular-mef4mc
+# angular 5 Generic data-table component using Angular Material 5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
