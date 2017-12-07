@@ -1,6 +1,6 @@
 # angular 5 Generic data-table component using Angular Material 5
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+Find the explanation on [medium](https://medium.com/@lavadukanam/building-a-generic-data-table-component-in-angular-5-with-material-5-8417cb8f0ce6)
 
 ## Development server
 
